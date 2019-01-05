@@ -44,13 +44,6 @@ body {
     height: 150px;
     width: 150px;
 }
-
-/* h2 {
-    top: 5%;
-    left: 5%;
-    position: absolute;
-    font-size: 40px;
-} */
 .players {
     display: flex;
     width: 100%;
