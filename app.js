@@ -32,7 +32,6 @@ reStart.addEventListener ('click', function () {
     win = 0;
 });
 
-
 table.addEventListener ('click', function (e) {
     if (e.target.classList.contains ('cell')) {
     const temp = 0;
@@ -75,7 +74,6 @@ table.addEventListener ('click', function (e) {
         } 
     }
 
-
 // tie condition
     win=0;
     checkArray ();
@@ -114,8 +112,5 @@ if (gameArray.length >= 3) {
     } else {
         win = 0;
     }
-
-
-
 } 
 }
